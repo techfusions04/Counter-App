@@ -1,6 +1,30 @@
-# Nextjs Starter Template
+# Counter State App
 
-The Last Next.js starter template you will ever need.
+This is a besic, Advance and Expert mode Counter App .
+
+A simple yet extensible counter component built with React, Next.js, and Shadcn UI, featuring increment/decrement functionality with intuitive UI icons from Lucide React.
+
+### 📌 Project Overview
+This component demonstrates:
+- State management using useState
+- UI rendering with Shadcn UI's Button component
+- Icon integration using Lucide React (CirclePlus, CircleMinus)
+- Modular and scalable design for future enhancements (e.g., reset, persistence)
+
+### 🚀 Features
+• 	➕ Increment by 1 or 10
+• 	➖ Decrement by 1 or 10
+• 	🎨 Styled buttons with icons for better U
+
+### Info Start Project
+npm i
+# or
+yarn i
+# or
+pnpm i
+# or
+bun i 
+
 
 ## Tech
 
