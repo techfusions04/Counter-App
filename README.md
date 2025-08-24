@@ -17,13 +17,15 @@ This component demonstrates:
 • 	🎨 Styled buttons with icons for better U
 
 ### Info Start Project
+```
 npm i
-or
+#or
 yarn i
-or
+#or
 pnpm i
 #or
-bun i 
+bun i
+```
 
 
 ## Tech
